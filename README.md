@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elijah-Kakala
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on making the world big problem 
+- 💞️ I’m looking to collaborate on solving the world big problems 
 - 📫 How to reach me elijahkakala7@gmail.com
 
 <!---
